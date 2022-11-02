@@ -6,9 +6,7 @@ The project needs an Employee class, which has 3 variables: a string for employe
 
 Create a class for hourly employees and a class for salaried employees; those classes inherit the Employee class as a protected class. Use initialization lists to create the employee objects. These classes each need a function to calculate the pay for that type of employee. Those functions will display the info about the employee (name and type of pay, from the display method in the employee class), then calculate the gross pay for this type of employee, then print out the result.
 
-The main function will instantiate 4 employees, 2 that are hourly and 2 that are salaried. Then call the methods to calculate the pay with the hours worked. Hard code those instantiations, you don't have to ask the user for the input. Here is an example of the main function:
-
-Ch 11 Payroll main
+The main function will instantiate 4 employees, 2 that are hourly and 2 that are salaried. Then call the methods to calculate the pay with the hours worked. Hard code those instantiations, you don't have to ask the user for the input.
 
 You may use the same data or come up with your own names and numbers.
 
