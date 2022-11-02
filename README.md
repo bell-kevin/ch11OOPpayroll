@@ -17,7 +17,6 @@ The output should look like this:
 Take a screenshot of the results.
 
  
-
 NOTE: Remember the requirements for a header and a pause at the end of the program, discussed in the reading "Console Applications". These are required in every console application project.
 
 Submission: Submit a single zipped folder containing all of the specified screenshots AND the root folder for the project.
